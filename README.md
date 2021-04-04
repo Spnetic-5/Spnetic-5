@@ -6,5 +6,4 @@
 - 🔭 I’m currently pursuing B.tech Electronics @VJTI, Mumbai.
 - 🌱 I’m currently learning Machine Learning, Deep Neural Networks and Generative Adversarial Networks.
 - 👯 I’m looking to collaborate on projects related to deep learning model building and deployment.
-- 🤔 I’m looking for help with my projects.
 - 📫 How to reach me: saurabhpowar1823@gmail.com
