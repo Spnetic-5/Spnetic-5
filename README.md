@@ -15,7 +15,12 @@
 - 🌱 I’m currently learning Machine Learning, Deep Neural Networks and Generative Adversarial Networks.
 - 👯 I’m looking to collaborate on projects related to deep learning model building and deployment.
 - 📫 How to reach me: saurabhpowar1823@gmail.com
+- 💻 Want to know more? Check out my [portfolio](http://spnetic-5.github.io/)<br><br><br>
 
-![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=Spnetic-5&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spnetic-5&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spnetic-5&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Saif807380" />   
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spnetic-5&theme=cobalt" alt="Spnetic-5" /></p>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spnetic-5&layout=compact&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
