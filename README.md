@@ -6,7 +6,7 @@
 
 ### Hey there 👋 My name is Saurabh Suresh Powar! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/saurabh-powar-72b4701b4/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Saurabh67110062) ![](https://visitor-badge.glitch.me/badge?page_id=Spnetic-5.profileviews-badge)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Saurabh67110062) ![](https://visitor-badge.glitch.me/badge?page_id=Spnetic-5.profileviews-badge)
 
 <!--
 **Spnetic-5/Spnetic-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
