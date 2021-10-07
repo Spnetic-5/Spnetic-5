@@ -16,10 +16,12 @@
 - 📫 How to reach me: saurabhpowar1823@gmail.com
 - 💻 Want to know more? Check out my [portfolio](http://spnetic-5.github.io/)<br><br><br>
 
-![](https://github.com/Spnetic-5/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Spnetic-5/github-stats/blob/master/generated/languages.svg)
+<a href="https://github.com/jstrieb/github-stats" align="center">
 
+![](https://github.com/Spnetic-5/stats/blob/master/generated/overview.svg)
+![](https://github.com/Spnetic-5/stats/blob/master/generated/languages.svg)
 
+</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spnetic-5&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Spnetic-5" />   
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spnetic-5&theme=cobalt" alt="Spnetic-5" /></p>
