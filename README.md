@@ -26,7 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Spnetic-5&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Spnetic-5" />   
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Spnetic-5&theme=cobalt" alt="Spnetic-5" /></p>
 </p>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spnetic-5&layout=compact&show_icons=true&theme=cobalt" alt="Spnetic-5" /></p>
-</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Spnetic-5&theme=monokai" alt="Saurabh Powar" /></a> </p>
 
