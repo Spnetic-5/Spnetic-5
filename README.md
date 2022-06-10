@@ -14,7 +14,55 @@
 - 🌱 I’m currently learning Machine Learning, Deep Reinforcement Networks, Convolutional Neural Networks and Generative Adversarial Networks.
 - 👯 I’m looking to collaborate on projects related to ML/DL model building and deployment.
 - 📫 How to reach me: saurabhpowar1823@gmail.com
-- 💻 Want to know more? Check out my [portfolio](http://spnetic-5.github.io/)<br><br><br>
+- 💻 Want to know more? Check out my [portfolio](http://spnetic-5.github.io/)<br><br>
+
+<h3 align="left">Languages and Tools:</h3>
+<div  >
+	<div  >
+	<img src='https://img.shields.io/badge/Programming%20Language-696969?style=for-the-badge'/>
+	<br/>
+		<div style='background-color:#00000080;' >
+		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%2B%2B.svg' />
+		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c.svg' />
+		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg' />
+		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg' />
+		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg' />
+		</div>
+</div>
+<br/>
+		<div style='background-color:#00000080;' >
+	<img src='https://img.shields.io/badge/Web%20Development-696969?style=for-the-badge&logo=Weblate' />
+		<br/>
+	<div>
+		<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg" alt="Html" width="60"/> 
+		<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg" alt="css" width="60" /> 
+		<img width='60' src='https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg' />
+			       <img width="60" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" /> 
+       <img width="60" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" /> 
+	<img width="60" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg" alt="React" />
+<img width="60" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/flask.svg" alt="Flask" /> 
+<img width="60" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/django.svg" alt="Django" />  
+    <img width="60" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" alt="MySQL" /> 
+   </div>
+   </div>
+</div>
+<br/>
+	<div style='background-color:#00000080;' >
+	<img src='https://img.shields.io/badge/Machine%20Learning-696969?style=for-the-badge&logo=Probot' />
+		<br/>
+	<div>
+		<img width="60" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" /> 
+		<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" /> 
+		<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" /> 
+		<img width="60" src="https://raw.githubusercontent.com/gilbarbara/logos/101422a2467fd45d5ba0f1da6f199c84236d0ec3/logos/matplotlib-icon.svg" alt="matplotlib" /> 
+		<img width="60" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" /> 
+		<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" /> 
+		<img width="60" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" /> 
+		<img width="60" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" /> 
+		<img width="60" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" /> 
+   </div>
+</div>
+<br/>
 
 <a href="https://github.com/jstrieb/github-stats" align="center">
 
