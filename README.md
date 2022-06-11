@@ -30,7 +30,23 @@
 		</div>
 </div>
 <br/>
-		<div style='background-color:#00000080;' >
+	<div style='background-color:#00000080;' >
+	<img src='https://img.shields.io/badge/Machine%20Learning-696969?style=for-the-badge&logo=Probot' />
+		<br/>
+	<div>
+		<img width="60" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" /> 
+		<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" /> 
+		<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" /> 
+		<img width="60" src="https://raw.githubusercontent.com/gilbarbara/logos/101422a2467fd45d5ba0f1da6f199c84236d0ec3/logos/matplotlib-icon.svg" alt="matplotlib" /> 
+		<img width="60" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" /> 
+		<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" /> 
+		<img width="60" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" /> 
+		<img width="60" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" /> 
+		<img width="60" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" /> 
+   </div>
+</div>
+	<br/>
+	<div style='background-color:#00000080;' >
 	<img src='https://img.shields.io/badge/Web%20Development-696969?style=for-the-badge&logo=Weblate' />
 		<br/>
 	<div>
@@ -47,23 +63,7 @@
    </div>
 </div>
 <br/>
-	<div style='background-color:#00000080;' >
-	<img src='https://img.shields.io/badge/Machine%20Learning-696969?style=for-the-badge&logo=Probot' />
-		<br/>
-	<div>
-		<img width="60" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" /> 
-		<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" /> 
-		<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" /> 
-		<img width="60" src="https://raw.githubusercontent.com/gilbarbara/logos/101422a2467fd45d5ba0f1da6f199c84236d0ec3/logos/matplotlib-icon.svg" alt="matplotlib" /> 
-		<img width="60" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" /> 
-		<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" /> 
-		<img width="60" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" /> 
-		<img width="60" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" /> 
-		<img width="60" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" /> 
-   </div>
-</div>
-<br/>
-
+	
 <a href="https://github.com/jstrieb/github-stats" align="center">
 
 ![](https://github.com/Spnetic-5/stats/blob/master/generated/overview.svg)
