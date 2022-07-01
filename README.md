@@ -11,8 +11,8 @@
 **Spnetic-5/Spnetic-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 👋 Hi, I’m Saurabh Suresh Powar
 - 🔭 I’m currently pursuing B.tech Electronics @VJTI, Mumbai.
-- 🌱 I’m currently learning Machine Learning, Deep Reinforcement Networks, Convolutional Neural Networks and Generative Adversarial Networks.
-- 👯 I’m looking to collaborate on projects related to ML/DL model building and deployment.
+- 🌱 I’m currently exploring Machine Learning & Software Development.
+- 👯 I’m looking to collaborate on projects related to ML/DL model.
 - 📫 How to reach me: saurabhpowar1823@gmail.com
 - 💻 Want to know more? Check out my [portfolio](http://spnetic-5.github.io/)<br><br>
 
